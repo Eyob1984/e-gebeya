@@ -1,0 +1,22 @@
+{
+  "name": "e-gebeya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eyob1984/e-gebeya.git"
+  },
+  "author": "Eyob Tamir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eyob1984/e-gebeya/issues"
+  },
+  "homepage": "https://github.com/Eyob1984/e-gebeya#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
